@@ -1,3 +1,6 @@
+# Author: Robert Ren
+# Date: 2022-03-31
+
 import requests
 
 from plotly.graph_objs import Bar
