@@ -1,3 +1,6 @@
+# Author: Robert Ren
+# Date: 2022-03-20
+
 import json
 
 from plotly.graph_objs import Scattergeo, Layout
